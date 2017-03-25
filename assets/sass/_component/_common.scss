@@ -1,0 +1,26 @@
+// responsive design
+$break-small: 540px;
+$break-middle: 720px;
+$break-large: 960px;
+$break-xlarge: 1024px;
+*{
+	box-sizing: border-box;
+	font-family: 'Open Sans', "Helvetica Neue",Helvetica,Arial,sans-serif, 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+}
+html, body{
+	width: 100%;
+	background-color: #fff;
+	position: relative;
+}
+body{-webkit-text-size-adjust: 100%;}
+#page_wrap{
+
+}
+
+html { font-size: 62.5%; }
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
